@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@avetti/storefront.utils.copyright": "^1.0.0"
+  }
+}

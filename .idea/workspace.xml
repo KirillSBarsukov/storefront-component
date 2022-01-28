@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0cf4da0-7586-41c4-82df-d58b67f8c98a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hotswap_agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/cookie-dialog/cookie-dialog.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/cookie-dialog/cookie-dialog.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/cookie-dialog/cookie-dialog.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/cookie-dialog/cookie-dialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/cookie-dialog/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/footer/footer.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/footer/footer.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/footer/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/footer/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/login/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/login/login.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/login/login.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/login/login.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/login/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signin/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signin/signin.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signin/signin.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signin/signin.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signup/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signup/signup.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signup/signup.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/core/signup/signup.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/utils/copyright/copyright.composition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/utils/copyright/copyright.docs.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/utils/copyright/copyright.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storefront/utils/copyright/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22W9ejaX9xSF2kmTnE6MKC2JZxp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
